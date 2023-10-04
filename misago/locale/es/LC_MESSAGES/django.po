@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#1366
+# 1366
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-24 12:16+0000\n"
+"POT-Creation-Date: 2023-10-04 03:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -227,7 +227,9 @@ msgstr "Color"
 #: categories/admin/forms.py:67
 msgctxt "admin category form"
 msgid "Optional but recommended, should be in hex format, eg. #F5A9B8."
-msgstr "Opcional pero recomendado, debe estar en formato hexadecimal, por ejemplo, #F5A9B8."
+msgstr ""
+"Opcional pero recomendado, debe estar en formato hexadecimal, por ejemplo, "
+"#F5A9B8."
 
 #: categories/admin/forms.py:74
 msgctxt "admin category form"
@@ -264,7 +266,9 @@ msgstr "Categoría cerrada"
 #: categories/admin/forms.py:102
 msgctxt "admin category form"
 msgid "Only members with valid permissions can post in closed categories."
-msgstr "Solo los miembros con permisos válidos pueden publicar en categorías cerradas."
+msgstr ""
+"Solo los miembros con permisos válidos pueden publicar en categorías "
+"cerradas."
 
 #: categories/admin/forms.py:106
 msgctxt "admin category form"
@@ -274,7 +278,9 @@ msgstr "Temas"
 #: categories/admin/forms.py:110
 msgctxt "admin category form"
 msgid "All threads started in this category will require moderator approval."
-msgstr "Todos los temas iniciados en esta categoría requerirán la aprobación del moderador."
+msgstr ""
+"Todos los temas iniciados en esta categoría requerirán la aprobación del "
+"moderador."
 
 #: categories/admin/forms.py:114
 msgctxt "admin category form"
@@ -284,7 +290,9 @@ msgstr "Respuestas"
 #: categories/admin/forms.py:118
 msgctxt "admin category form"
 msgid "All replies posted in this category will require moderator approval."
-msgstr "Todas las respuestas publicadas en esta categoría requerirán la aprobación del moderador."
+msgstr ""
+"Todas las respuestas publicadas en esta categoría requerirán la aprobación "
+"del moderador."
 
 #: categories/admin/forms.py:122
 msgctxt "admin category form"
@@ -297,8 +305,8 @@ msgid ""
 "Will make all edited replies return to unapproved state for moderator to "
 "review."
 msgstr ""
-"Hará que todas las respuestas editadas vuelvan al estado no aprobado para que "
-"el moderador las revise."
+"Hará que todas las respuestas editadas vuelvan al estado no aprobado para "
+"que el moderador las revise."
 
 #: categories/admin/forms.py:130
 msgctxt "admin category form"
@@ -585,7 +593,9 @@ msgstr "General"
 #: conf/admin/__init__.py:61
 msgctxt "admin node"
 msgid "Change forum details like name, description or footer."
-msgstr "Cambiar los detalles del foro como el nombre, la descripción o el pie de página."
+msgstr ""
+"Cambiar los detalles del foro como el nombre, la descripción o el pie de "
+"página."
 
 #: conf/admin/__init__.py:67 users/admin/__init__.py:74
 msgctxt "admin node"
@@ -595,7 +605,9 @@ msgstr "Usuarios"
 #: conf/admin/__init__.py:70
 msgctxt "admin node"
 msgid "Customize user accounts default behavior and features availability."
-msgstr "Personalizar el comportamiento predeterminado de las cuentas de usuario y la disponibilidad de funciones."
+msgstr ""
+"Personalizar el comportamiento predeterminado de las cuentas de usuario y la "
+"disponibilidad de funciones."
 
 #: conf/admin/__init__.py:77
 msgctxt "admin node"
@@ -640,7 +652,9 @@ msgstr "OAuth2"
 #: conf/admin/__init__.py:109
 msgctxt "admin node"
 msgid "Enable OAuth2 client and connect your site to existing auth provider."
-msgstr "Habilitar el cliente OAuth2 y conectar tu sitio a un proveedor de autenticación existente."
+msgstr ""
+"Habilitar el cliente OAuth2 y conectar tu sitio a un proveedor de "
+"autenticación existente."
 
 #: conf/admin/__init__.py:116
 msgctxt "admin node"
@@ -650,7 +664,8 @@ msgstr "Analítica"
 #: conf/admin/__init__.py:119
 msgctxt "admin node"
 msgid "Enable Google Analytics or setup Google Site Verification."
-msgstr "Habilitar Google Analytics o configurar la verificación de sitios de Google."
+msgstr ""
+"Habilitar Google Analytics o configurar la verificación de sitios de Google."
 
 #: conf/admin/forms/analytics.py:17
 msgctxt "admin analytics settings form"
@@ -752,7 +767,9 @@ msgstr "Respuestas válidas"
 #: conf/admin/forms/captcha.py:58
 msgctxt "admin captcha settings form"
 msgid "Enter each answer in new line. Answers are case-insensitive."
-msgstr "Introduce cada respuesta en una nueva línea. Las respuestas no distinguen entre mayúsculas y minúsculas."
+msgstr ""
+"Introduce cada respuesta en una nueva línea. Las respuestas no distinguen "
+"entre mayúsculas y minúsculas."
 
 #: conf/admin/forms/captcha.py:68
 msgctxt "admin captcha settings form"
@@ -790,22 +807,29 @@ msgstr ""
 #: conf/admin/forms/captcha.py:96
 msgctxt "admin captcha settings form"
 msgid "You need to enter site key if selected CAPTCHA type is reCaptcha."
-msgstr "Debes introducir la llave del sitio si el tipo de CAPTCHA seleccionado es reCaptcha."
+msgstr ""
+"Debes introducir la llave del sitio si el tipo de CAPTCHA seleccionado es "
+"reCaptcha."
 
 #: conf/admin/forms/captcha.py:105
 msgctxt "admin captcha settings form"
 msgid "You need to enter secret key if selected CAPTCHA type is reCaptcha."
-msgstr "Debes introducir la llave secreta si el tipo de CAPTCHA seleccionado es reCaptcha."
+msgstr ""
+"Debes introducir la llave secreta si el tipo de CAPTCHA seleccionado es "
+"reCaptcha."
 
 #: conf/admin/forms/captcha.py:115
 msgctxt "admin captcha settings form"
 msgid "You need to set question if selected CAPTCHA type is Q&A."
-msgstr "Debes establecer una pregunta si el tipo de CAPTCHA seleccionado es Q&A."
+msgstr ""
+"Debes establecer una pregunta si el tipo de CAPTCHA seleccionado es Q&A."
 
 #: conf/admin/forms/captcha.py:124
 msgctxt "admin captcha settings form"
 msgid "You need to set question answers if selected CAPTCHA type is Q&A."
-msgstr "Debes establecer las respuestas de la pregunta si el tipo de CAPTCHA seleccionado es Q&A."
+msgstr ""
+"Debes establecer las respuestas de la pregunta si el tipo de CAPTCHA "
+"seleccionado es Q&A."
 
 #: conf/admin/forms/general.py:28
 msgctxt "admin general settings form"
@@ -844,7 +868,8 @@ msgstr "Texto de cabecera"
 #: conf/admin/forms/general.py:55
 msgctxt "admin general settings form"
 msgid "This text will be displayed in page header on forum index."
-msgstr "Este texto se mostrará en la cabecera de la página en el índice del foro."
+msgstr ""
+"Este texto se mostrará en la cabecera de la página en el índice del foro."
 
 #: conf/admin/forms/general.py:61
 msgctxt "admin general settings form"
@@ -964,14 +989,17 @@ msgstr "Pie de página de los correos electrónicos"
 #: conf/admin/forms/general.py:140
 msgctxt "admin general settings form"
 msgid "Optional short message included at the end of e-mails sent by forum."
-msgstr "Mensaje corto opcional incluido al final de los correos electrónicos enviados por el foro."
+msgstr ""
+"Mensaje corto opcional incluido al final de los correos electrónicos "
+"enviados por el foro."
 
 #: conf/admin/forms/general.py:149
 msgctxt "admin general settings form"
 msgid ""
 "Display the link to the Admin Control Panel in the administrator's user menu"
 msgstr ""
-"Mostrar el enlace al Panel de control de administración en el menú de usuario del administrador"
+"Mostrar el enlace al Panel de control de administración en el menú de "
+"usuario del administrador"
 
 #: conf/admin/forms/general.py:153
 msgctxt "admin general settings form"
@@ -993,8 +1021,8 @@ msgid ""
 "Address under which site is running appears to be \"%(address)s\"."
 msgstr ""
 "Actsis utiliza esta configuración para construir enlaces en los correos "
-"electrónicos enviados a los usuarios del sitio. La dirección bajo la cual "
-"se ejecuta el sitio aparece como \"%(address)s\"."
+"electrónicos enviados a los usuarios del sitio. La dirección bajo la cual se "
+"ejecuta el sitio aparece como \"%(address)s\"."
 
 #: conf/admin/forms/notifications.py:22
 msgctxt "admin notifications settings form"
@@ -1017,7 +1045,9 @@ msgstr ""
 #: conf/admin/forms/notifications.py:50
 msgctxt "admin notifications settings form"
 msgid "Notify about new replies in new private threads started by other users"
-msgstr "Notificar sobre nuevas respuestas en nuevos temas privados iniciados por otros usuarios"
+msgstr ""
+"Notificar sobre nuevas respuestas en nuevos temas privados iniciados por "
+"otros usuarios"
 
 #: conf/admin/forms/notifications.py:60
 msgctxt "admin notifications settings form"
@@ -1210,7 +1240,9 @@ msgstr ""
 #: conf/admin/forms/oauth2.py:177
 msgctxt "admin oauth2 settings form"
 msgid "Send a welcoming e-mail to users on their first sign-ons"
-msgstr "Enviar un correo electrónico de bienvenida a los usuarios en su primer inicio de sesión"
+msgstr ""
+"Enviar un correo electrónico de bienvenida a los usuarios en su primer "
+"inicio de sesión"
 
 #: conf/admin/forms/oauth2.py:183
 msgctxt "admin oauth2 settings form"
@@ -1250,7 +1282,8 @@ msgstr ""
 #, python-format
 msgctxt "admin oauth2 settings form"
 msgid "\"%(header)s\" is not a valid header. It's missing a colon (\":\")."
-msgstr "El \"%(header)s\" no es un encabezado válido. Falta dos puntos (\":\")."
+msgstr ""
+"El \"%(header)s\" no es un encabezado válido. Falta dos puntos (\":\")."
 
 #: conf/admin/forms/oauth2.py:266
 #, python-format
@@ -1258,7 +1291,9 @@ msgctxt "admin oauth2 settings form"
 msgid ""
 "\"%(header)s\" is not a valid header. It's missing a header name before the "
 "colon (\":\")."
-msgstr "El \"%(header)s\" no es un encabezado válido. Falta un nombre de encabezado antes de los dos puntos (\":\")."
+msgstr ""
+"El \"%(header)s\" no es un encabezado válido. Falta un nombre de encabezado "
+"antes de los dos puntos (\":\")."
 
 #: conf/admin/forms/oauth2.py:275
 #, python-format
@@ -1289,8 +1324,8 @@ msgid ""
 "limit."
 msgstr ""
 "Límite diario de publicaciones que puede publicar un solo usuario. Fail-safe "
-"para situaciones en las que el foro está inundado de bots de spam. Cambia a 0 "
-"para eliminar el límite."
+"para situaciones en las que el foro está inundado de bots de spam. Cambia a "
+"0 para eliminar el límite."
 
 #: conf/admin/forms/threads.py:36
 msgctxt "admin threads settings form"
@@ -6524,7 +6559,7 @@ msgstr ""
 #: templates/misago/threadslist/base.html:55
 msgctxt "threads list"
 msgid "There are no threads on this forum... yet!"
-msgstr ""
+msgstr "Aún no hay temas en este foro... ¡anímate y crea uno!"
 
 #: templates/misago/threadslist/base.html:59
 msgctxt "threads list"
@@ -10137,87 +10172,87 @@ msgid ""
 "others through dedicated page on forum users list."
 msgstr ""
 
-#: users/admin/forms.py:543
+#: users/admin/forms.py:544
 msgctxt "admin rank form"
 msgid "There's already an other rank with this name."
 msgstr ""
 
-#: users/admin/forms.py:552
+#: users/admin/forms.py:553
 msgctxt "admin ban users form"
 msgid "Values to ban"
 msgstr ""
 
-#: users/admin/forms.py:557
+#: users/admin/forms.py:558
 msgctxt "admin ban users form"
 msgid "User message"
 msgstr ""
 
-#: users/admin/forms.py:562
+#: users/admin/forms.py:563
 msgctxt "admin ban users form"
 msgid "Optional message displayed to users instead of default one."
 msgstr ""
 
-#: users/admin/forms.py:567 users/admin/forms.py:582
+#: users/admin/forms.py:568 users/admin/forms.py:583
 msgctxt "admin ban users form"
 msgid "Message can't be longer than 1000 characters."
 msgstr ""
 
-#: users/admin/forms.py:572
+#: users/admin/forms.py:573
 msgctxt "admin ban users form"
 msgid "Team message"
 msgstr ""
 
-#: users/admin/forms.py:577
+#: users/admin/forms.py:578
 msgctxt "admin ban users form"
 msgid "Optional ban message for moderators and administrators."
 msgstr ""
 
-#: users/admin/forms.py:587
+#: users/admin/forms.py:588
 msgctxt "admin ban users form"
 msgid "Expiration date"
 msgstr ""
 
-#: users/admin/forms.py:596
+#: users/admin/forms.py:597
 msgctxt "admin ban users form"
 msgid "Usernames"
 msgstr ""
 
-#: users/admin/forms.py:597
+#: users/admin/forms.py:598
 msgctxt "admin ban users form"
 msgid "E-mails"
 msgstr ""
 
-#: users/admin/forms.py:598
+#: users/admin/forms.py:599
 msgctxt "admin ban users form"
 msgid "E-mail domains"
 msgstr ""
 
-#: users/admin/forms.py:604
+#: users/admin/forms.py:605
 msgctxt "admin ban users form"
 msgid "IP addresses"
 msgstr ""
 
-#: users/admin/forms.py:608
+#: users/admin/forms.py:609
 msgctxt "admin ban users form"
 msgid "First segment of IP addresses"
 msgstr ""
 
-#: users/admin/forms.py:614
+#: users/admin/forms.py:615
 msgctxt "admin ban users form"
 msgid "First two segments of IP addresses"
 msgstr ""
 
-#: users/admin/forms.py:622
+#: users/admin/forms.py:623
 msgctxt "admin ban form"
 msgid "Check type"
 msgstr ""
 
-#: users/admin/forms.py:627
+#: users/admin/forms.py:628
 msgctxt "admin ban form"
 msgid "Restrict this ban to registrations"
 msgstr ""
 
-#: users/admin/forms.py:630
+#: users/admin/forms.py:631
 msgctxt "admin ban form"
 msgid ""
 "Changing this to yes will make this ban check be only performed on "
@@ -10226,12 +10261,12 @@ msgid ""
 "existing users."
 msgstr ""
 
-#: users/admin/forms.py:634
+#: users/admin/forms.py:635
 msgctxt "admin ban form"
 msgid "Banned value"
 msgstr ""
 
-#: users/admin/forms.py:638
+#: users/admin/forms.py:639
 msgctxt "admin ban form"
 msgid ""
 "This value is case-insensitive and accepts asterisk (*) for partial matches. "
@@ -10239,122 +10274,122 @@ msgid ""
 "beginning with \"83.\"."
 msgstr ""
 
-#: users/admin/forms.py:642
+#: users/admin/forms.py:643
 msgctxt "admin ban form"
 msgid "Banned value can't be longer than 250 characters."
 msgstr ""
 
-#: users/admin/forms.py:647
+#: users/admin/forms.py:648
 msgctxt "admin ban form"
 msgid "User message"
 msgstr ""
 
-#: users/admin/forms.py:652
+#: users/admin/forms.py:653
 msgctxt "admin ban form"
 msgid "Optional message displayed to user instead of default one."
 msgstr ""
 
-#: users/admin/forms.py:657 users/admin/forms.py:671
+#: users/admin/forms.py:658 users/admin/forms.py:672
 msgctxt "admin ban form"
 msgid "Message can't be longer than 1000 characters."
 msgstr ""
 
-#: users/admin/forms.py:662
+#: users/admin/forms.py:663
 msgctxt "admin ban form"
 msgid "Team message"
 msgstr ""
 
-#: users/admin/forms.py:666
+#: users/admin/forms.py:667
 msgctxt "admin ban form"
 msgid "Optional ban message for moderators and administrators."
 msgstr ""
 
-#: users/admin/forms.py:676
+#: users/admin/forms.py:677
 msgctxt "admin ban form"
 msgid "Expiration date"
 msgstr ""
 
-#: users/admin/forms.py:698
+#: users/admin/forms.py:699
 msgctxt "admin ban form"
 msgid "Banned value is too vague."
 msgstr ""
 
-#: users/admin/forms.py:706
+#: users/admin/forms.py:707
 msgctxt "admin bans filter form"
 msgid "Type"
 msgstr ""
 
-#: users/admin/forms.py:709
+#: users/admin/forms.py:710
 msgctxt "admin bans type filter choice"
 msgid "All bans"
 msgstr ""
 
-#: users/admin/forms.py:710
+#: users/admin/forms.py:711
 msgctxt "admin bans type filter choice"
 msgid "Usernames"
 msgstr ""
 
-#: users/admin/forms.py:711
+#: users/admin/forms.py:712
 msgctxt "admin bans filter form"
 msgid "E-mails"
 msgstr ""
 
-#: users/admin/forms.py:712
+#: users/admin/forms.py:713
 msgctxt "admin bans type filter choice"
 msgid "IPs"
 msgstr ""
 
-#: users/admin/forms.py:716
+#: users/admin/forms.py:717
 msgctxt "admin bans filter form"
 msgid "Banned value begins with"
 msgstr ""
 
-#: users/admin/forms.py:720
+#: users/admin/forms.py:721
 msgctxt "admin bans filter form"
 msgid "Registration only"
 msgstr ""
 
-#: users/admin/forms.py:723
-msgctxt "admin bans registration filter choice"
-msgid "Any"
-msgstr ""
-
 #: users/admin/forms.py:724
 msgctxt "admin bans registration filter choice"
-msgid "Yes"
+msgid "Any"
 msgstr ""
 
 #: users/admin/forms.py:725
 msgctxt "admin bans registration filter choice"
+msgid "Yes"
+msgstr ""
+
+#: users/admin/forms.py:726
+msgctxt "admin bans registration filter choice"
 msgid "No"
 msgstr ""
 
-#: users/admin/forms.py:729
+#: users/admin/forms.py:730
 msgctxt "admin bans filter form"
 msgid "State"
 msgstr ""
 
-#: users/admin/forms.py:732
+#: users/admin/forms.py:733
 msgctxt "admin bans state filter choice"
 msgid "Any"
 msgstr ""
 
-#: users/admin/forms.py:733
+#: users/admin/forms.py:734
 msgctxt "admin bans state filter choice"
 msgid "Active"
 msgstr ""
 
-#: users/admin/forms.py:734
+#: users/admin/forms.py:735
 msgctxt "admin bans state filter choice"
 msgid "Expired"
 msgstr ""
 
-#: users/admin/forms.py:770
+#: users/admin/forms.py:771
 msgctxt "admin data download request form"
 msgid "Usernames or emails"
 msgstr ""
 
-#: users/admin/forms.py:773
+#: users/admin/forms.py:774
 msgctxt "admin data download request form"
 msgid ""
 "Enter every item in new line. Duplicates will be ignored. This field is case "
@@ -10363,7 +10398,7 @@ msgid ""
 "notification will be sent to every user once their download is ready."
 msgstr ""
 
-#: users/admin/forms.py:787
+#: users/admin/forms.py:788
 #, python-format
 msgctxt "admin data download request form"
 msgid ""
@@ -10371,22 +10406,22 @@ msgid ""
 "%(show_value)s)."
 msgstr ""
 
-#: users/admin/forms.py:807
+#: users/admin/forms.py:808
 msgctxt "admin data download request form"
 msgid "One or more specified users could not be found."
 msgstr ""
 
-#: users/admin/forms.py:816
+#: users/admin/forms.py:817
 msgctxt "admin data download requests filter form"
 msgid "Status"
 msgstr ""
 
-#: users/admin/forms.py:821
+#: users/admin/forms.py:822
 msgctxt "admin data download requests filter form"
 msgid "User"
 msgstr ""
 
-#: users/admin/forms.py:825
+#: users/admin/forms.py:826
 msgctxt "admin data download requests filter form"
 msgid "Requested by"
 msgstr ""
