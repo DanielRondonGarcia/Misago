@@ -5,7 +5,7 @@
 #1366
 #, fuzzy
 msgid ""
-msgid ""
+msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-24 12:16+0000\n"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # "dev" is an utility script speeding up different development tasks and actions.
-# To find out what options are available, run it without any arguments.
+# To find out what options are available, run it without any arguments. (dos2unix ./dev)
 
 # Text styles
 RED='\033[0;31m'

@@ -176,7 +176,7 @@ msgstr "Ok"
 #: static/misago/js/misago.js:1
 msgctxt "register form"
 msgid "New registrations are currently disabled."
-msgstr "Los nuevos registros están actualmente deshabilitados."1
+msgstr "Los nuevos registros están actualmente deshabilitados."
 
 #: static/misago/js/misago.js:1
 msgctxt "register form"
